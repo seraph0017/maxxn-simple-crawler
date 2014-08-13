@@ -1,2 +1,5 @@
 *.pyc
+maxxn.egg-info/
+build/
+dist/
 

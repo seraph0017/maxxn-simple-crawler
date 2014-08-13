@@ -6,7 +6,7 @@ setup(
     name = 'maxxn',
     author = 'seraph0017',
     author_email = 'seraph0017@hotmail.com',
-    version = '1.0.0',
+    version = '1.1.0',
     description = 'simple crawler',
     keywords = 'simple crawler',
     packages = find_packages(),
